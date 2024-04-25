@@ -1,6 +1,7 @@
 # Change these first
 owner: soroco
 repo: statuspage
+user-agent: kfiles
 
 sites:
   - name: Google
