@@ -4,19 +4,14 @@ repo: statuspage
 user-agent: kfiles
 
 sites:
-  - name: Google
+  - name: Soroco Azure Cloud
     url: https://www.google.com
-  - name: Wikipedia
+  - name: Cluster eastus1-lts
     url: https://en.wikipedia.org
-  - name: Hacker News
+  - name: Scout Portal
     url: https://news.ycombinator.com
-  - name: Test Broken Site
+  - name: PostgreSQL DB
     url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -26,7 +21,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/soroco/statuspage/master/assets/upptime-icon.svg
   name: Soroco Status
   introTitle: "**Scout Status** for Soroco customer cluster"
-  introMessage: Status updated every 5 minutes
+  introMessage: "Status updated every 5 minutes"
   navbar:
     - title: Status
       href: /
