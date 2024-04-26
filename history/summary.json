@@ -40,19 +40,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "scout-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 104,
-    "timeWeek": 233,
-    "timeMonth": 233,
-    "timeYear": 233,
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
+    "time": 299,
+    "timeDay": 267,
+    "timeWeek": 299,
+    "timeMonth": 299,
+    "timeYear": 299,
     "dailyMinutesDown": {
-      "2024-04-26": 0
+      "2024-04-26": 8
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-26": 1149,
+      "2024-04-26": 1157,
       "2024-04-25": 1143
     }
   }
