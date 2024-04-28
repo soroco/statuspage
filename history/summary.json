@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 184,
-    "timeWeek": 171,
-    "timeMonth": 171,
-    "timeYear": 171,
+    "time": 170,
+    "timeDay": 167,
+    "timeWeek": 170,
+    "timeMonth": 170,
+    "timeYear": 170,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 208,
-    "timeWeek": 155,
-    "timeMonth": 155,
-    "timeYear": 155,
+    "time": 162,
+    "timeDay": 182,
+    "timeWeek": 162,
+    "timeMonth": 162,
+    "timeYear": 162,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "scout-portal",
     "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
-    "time": 302,
-    "timeDay": 371,
-    "timeWeek": 302,
-    "timeMonth": 302,
-    "timeYear": 302,
+    "uptime": "99.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 300,
+    "timeDay": 292,
+    "timeWeek": 300,
+    "timeMonth": 300,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2024-04-26": 8
     }
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-27": 61,
+      "2024-04-28": 67,
+      "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1143
     }
