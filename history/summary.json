@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "soroco-azure-cloud",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 148,
-    "timeDay": 82,
-    "timeWeek": 129,
-    "timeMonth": 148,
-    "timeYear": 148,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 149,
+    "timeDay": 167,
+    "timeWeek": 141,
+    "timeMonth": 149,
+    "timeYear": 149,
     "dailyMinutesDown": {
       "2024-05-01": 28
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 187,
-    "timeWeek": 305,
-    "timeMonth": 205,
-    "timeYear": 205,
+    "time": 210,
+    "timeDay": 336,
+    "timeWeek": 318,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 309,
-    "timeDay": 404,
-    "timeWeek": 311,
-    "timeMonth": 309,
-    "timeYear": 309,
+    "time": 310,
+    "timeDay": 349,
+    "timeWeek": 304,
+    "timeMonth": 310,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2024-04-26": 8
     }
@@ -74,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-21": 64,
+      "2024-05-22": 65,
+      "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
