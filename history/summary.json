@@ -13,7 +13,7 @@
     "time": 142,
     "timeDay": 76,
     "timeWeek": 123,
-    "timeMonth": 142,
+    "timeMonth": 145,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2024-05-01": 28
@@ -33,7 +33,7 @@
     "time": 201,
     "timeDay": 30,
     "timeWeek": 210,
-    "timeMonth": 201,
+    "timeMonth": 200,
     "timeYear": 201,
     "dailyMinutesDown": {}
   },
@@ -42,7 +42,7 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "scout-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,9 +51,10 @@
     "time": 310,
     "timeDay": 86,
     "timeWeek": 324,
-    "timeMonth": 310,
+    "timeMonth": 308,
     "timeYear": 310,
     "dailyMinutesDown": {
+      "2024-05-25": 0,
       "2024-04-26": 8
     }
   },
@@ -66,7 +67,7 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "0.04%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -74,7 +75,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-25": 16,
+      "2024-05-25": 321,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
